@@ -1,0 +1,13 @@
+C:\Users\Lohan\Desktop\Escola\LP\Tarefa Pontuada - Herança e Encalsulamento\Tarefa - Herança e Encapsulamento\bin\Debug\netcoreapp3.1\Tarefa - Herança e Encapsulamento.exe
+C:\Users\Lohan\Desktop\Escola\LP\Tarefa Pontuada - Herança e Encalsulamento\Tarefa - Herança e Encapsulamento\bin\Debug\netcoreapp3.1\Tarefa - Herança e Encapsulamento.deps.json
+C:\Users\Lohan\Desktop\Escola\LP\Tarefa Pontuada - Herança e Encalsulamento\Tarefa - Herança e Encapsulamento\bin\Debug\netcoreapp3.1\Tarefa - Herança e Encapsulamento.runtimeconfig.json
+C:\Users\Lohan\Desktop\Escola\LP\Tarefa Pontuada - Herança e Encalsulamento\Tarefa - Herança e Encapsulamento\bin\Debug\netcoreapp3.1\Tarefa - Herança e Encapsulamento.runtimeconfig.dev.json
+C:\Users\Lohan\Desktop\Escola\LP\Tarefa Pontuada - Herança e Encalsulamento\Tarefa - Herança e Encapsulamento\bin\Debug\netcoreapp3.1\Tarefa - Herança e Encapsulamento.dll
+C:\Users\Lohan\Desktop\Escola\LP\Tarefa Pontuada - Herança e Encalsulamento\Tarefa - Herança e Encapsulamento\bin\Debug\netcoreapp3.1\Tarefa - Herança e Encapsulamento.pdb
+C:\Users\Lohan\Desktop\Escola\LP\Tarefa Pontuada - Herança e Encalsulamento\Tarefa - Herança e Encapsulamento\obj\Debug\netcoreapp3.1\Tarefa - Herança e Encapsulamento.csprojAssemblyReference.cache
+C:\Users\Lohan\Desktop\Escola\LP\Tarefa Pontuada - Herança e Encalsulamento\Tarefa - Herança e Encapsulamento\obj\Debug\netcoreapp3.1\Tarefa - Herança e Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Lohan\Desktop\Escola\LP\Tarefa Pontuada - Herança e Encalsulamento\Tarefa - Herança e Encapsulamento\obj\Debug\netcoreapp3.1\Tarefa - Herança e Encapsulamento.AssemblyInfo.cs
+C:\Users\Lohan\Desktop\Escola\LP\Tarefa Pontuada - Herança e Encalsulamento\Tarefa - Herança e Encapsulamento\obj\Debug\netcoreapp3.1\Tarefa - Herança e Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Lohan\Desktop\Escola\LP\Tarefa Pontuada - Herança e Encalsulamento\Tarefa - Herança e Encapsulamento\obj\Debug\netcoreapp3.1\Tarefa - Herança e Encapsulamento.dll
+C:\Users\Lohan\Desktop\Escola\LP\Tarefa Pontuada - Herança e Encalsulamento\Tarefa - Herança e Encapsulamento\obj\Debug\netcoreapp3.1\Tarefa - Herança e Encapsulamento.pdb
+C:\Users\Lohan\Desktop\Escola\LP\Tarefa Pontuada - Herança e Encalsulamento\Tarefa - Herança e Encapsulamento\obj\Debug\netcoreapp3.1\Tarefa - Herança e Encapsulamento.genruntimeconfig.cache
